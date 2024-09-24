@@ -16,7 +16,7 @@ export const metadata = {
   openGraph: {
     title: 'Adi-gitX.ai | Transform Your Ideas into Action',
     description: 'Transform Your Ideas Into Connect With People, Make Things Happen! anonymous.dev',
-    url: 'https://ai-chatbot-blond-three.vercel.app/',  
+    url: 'https://adigitx-ai-tlpy.vercel.app/',  
     type: 'website',
     images: [
       {

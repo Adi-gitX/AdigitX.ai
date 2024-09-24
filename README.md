@@ -89,4 +89,8 @@ Distributed under the **MIT License**. See the `LICENSE` file for more details.
 - **GitHub**: [Adi-gitX](https://github.com/Adi-gitX)
 - **LinkedIn**: [Adithya Kammati](https://www.linkedin.com/in/kammatiaditya/)
 
+<<<<<<< HEAD
 Stay connected and follow the journey of **Adigitx.ai** as we continue to push the boundaries of AI innovation! 🌟
+=======
+Stay connected and follow the journey of **Adigitx.ai** as we continue to push the boundaries of AI innovation! 🌟
+>>>>>>> 9933a17 (modifiedlogo)

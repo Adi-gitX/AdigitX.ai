@@ -290,7 +290,7 @@ export default function Page() {
                     ) : (
                       <div className=" rounded-full   object-cover overflow-hidden">
                         <img
-                          src="app/unnamed.png"
+                          src="https://img.freepik.com/premium-vector/ak-logo-design_731343-612.jpg"
                           alt="Bot Logo"
                           className=" w-10 h-10  "
                         />

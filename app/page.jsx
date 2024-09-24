@@ -1,5 +1,6 @@
 import Spline from "@splinetool/react-spline/next";
 import { SignInButton } from "@clerk/nextjs";
+import Image from 'next/image';
 function Page() {
   return (
     <div className="relative poppins-regular container h-screen mx-auto ">
@@ -17,9 +18,9 @@ function Page() {
       </div>
       <nav className="max-w-4xl mx-auto relative top-8  bg-glass rounded-full  flex justify-between items-center p-2 ">
         <div className="w-10 h-10 rounded-full overflow-hidden ">
-          <img
-            src=""
-            alt=""
+          <image
+            src="app/unnamed.png"
+            alt="logo"
           />
         </div>
 

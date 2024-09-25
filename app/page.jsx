@@ -9,7 +9,7 @@ function Page() {
           Adi-gitX.
         </div>
         <p className="text-base text-white">
-          Transform Your Ideas into Action <br /> with Intelligent Prompt
+          Transform Your Ideas into Action <br /> Anonymous.dev
           Generation{" "}
         </p>
       </div>
@@ -19,7 +19,7 @@ function Page() {
       <nav className="max-w-4xl mx-auto relative top-8  bg-glass rounded-full  flex justify-between items-center p-2 ">
         <div className="w-10 h-10 rounded-full overflow-hidden ">
           <image
-            src="app/unnamed.png"
+            src="https://img.freepik.com/premium-vector/ak-logo-design_731343-612.jpg"
             alt="logo"
           />
         </div>

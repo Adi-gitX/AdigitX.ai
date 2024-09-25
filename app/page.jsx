@@ -9,8 +9,7 @@ function Page() {
           Adi-gitX.
         </div>
         <p className="text-base text-white">
-          Transform Your Ideas into Action <br /> Anonymous.dev
-          Generation{" "}
+          Transform Your Ideas into Action <br /> Anonymous.dev{" "}
         </p>
       </div>
       <div className=" absolute top-[50%] w-full left-[50%] -translate-x-1/2 -translate-y-1/2    h-full">

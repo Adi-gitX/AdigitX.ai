@@ -234,31 +234,31 @@ export default function Page() {
               <div className="flex  gap-2  scroll-hidden overflow-x-auto">
                 <Card
                   icon={<FaUserTie className="text-2xl" />}
-                  text="Walk me through how to apply for a new role"
+                  text="what is adigitx.ai?"
                   onClick={() =>
                     handleCardClick(
-                      "Walk me through how to apply for a new role"
+                      "what is adigitx.ai?"
                     )
                   }
                 />
                 <Card
                   icon={<FaRegQuestionCircle className="text-2xl" />}
-                  text="What is the status of my application?"
+                  text="what is anynominous dev?"
                   onClick={() =>
-                    handleCardClick("What is the status of my application?")
+                    handleCardClick("what is anynominous dev?")
                   }
                 />
                 <Card
                   icon={<FaRedo className="text-2xl" />}
-                  text="How do I reset my password?"
-                  onClick={() => handleCardClick("How do I reset my password?")}
+                  text="is anynominous dev under construction?"
+                  onClick={() => handleCardClick("is anynominous dev under construction?")}
                 />
                 <Card
                   icon={<FaBook className="text-2xl" />}
-                  text="Can you recommend some learning resources?"
+                  text="what is the use of it?"
                   onClick={() =>
                     handleCardClick(
-                      "Can you recommend some learning resources?"
+                      "what is the use of it?"
                     )
                   }
                 />

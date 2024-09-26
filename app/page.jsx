@@ -17,8 +17,8 @@ function Page() {
       </div>
       <nav className="max-w-4xl mx-auto relative top-8  bg-glass rounded-full  flex justify-between items-center p-2 ">
         <div className="w-10 h-10 rounded-full overflow-hidden ">
-          <image
-            src="https://img.freepik.com/premium-vector/ak-logo-design_731343-612.jpg"
+          <img
+            src="https://github.com/user-attachments/assets/357b19d9-e962-48bb-8cf2-86d80805843f"
             alt="logo"
           />
         </div>
